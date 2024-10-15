@@ -20,15 +20,14 @@ Ensure you have the following Python libraries installed:
 
 Install them using:
 ```bash
-pip install tkinter pandas numpy scipy ```
-
+pip install tkinter pandas numpy scipy 
+```
 
 ### How to Run
 To start the application, run the following command:
 ```bash
-python RaceProgramV2.py ```
-
-
+python RaceProgramV2.py 
+```
 This application opens a Tkinter-based GUI with options to load racers and to enter race results.
 
 ## Heat Generation Process
