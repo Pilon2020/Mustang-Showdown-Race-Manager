@@ -19,11 +19,14 @@ Ensure you have the following Python libraries installed:
 - `SciPy`
 
 Install them using:
-`pip install tkinter pandas numpy scipy `
+```bash
+pip install tkinter pandas numpy scipy 
+
 
 ### How to Run
 To start the application, run the following command:
-`python RaceProgramV2.py`
+```bash
+python RaceProgramV2.py
 
 This application opens a Tkinter-based GUI with options to load racers and to enter race results.
 
